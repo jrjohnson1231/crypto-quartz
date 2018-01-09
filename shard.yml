@@ -1,0 +1,9 @@
+name: cryptoquartz
+version: 0.1.0
+
+authors:
+  - John Johnson <jrjohnson1231@gmail.com>
+
+crystal: 0.24.1
+
+license: MIT
