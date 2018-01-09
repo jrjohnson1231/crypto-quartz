@@ -7,3 +7,7 @@ authors:
 crystal: 0.24.1
 
 license: MIT
+
+dependencies:
+  cryptocompare:
+    github: mattboldt/cryptocompare-crystal
